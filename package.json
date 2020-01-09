@@ -1,0 +1,28 @@
+{
+  "name": "get-base64-image",
+  "version": "1.0.0",
+  "description": "microservice to returns an image bsae64 content from its url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelverger/get-base64-image.git"
+  },
+  "keywords": [
+    "microservice",
+    "no",
+    "base64",
+    "image"
+  ],
+  "author": "rafaelverger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelverger/get-base64-image/issues"
+  },
+  "homepage": "https://github.com/rafaelverger/get-base64-image#readme",
+  "dependencies": {
+    "now": "^16.4.1"
+  }
+}
